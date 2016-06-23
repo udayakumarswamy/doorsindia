@@ -1,0 +1,28 @@
+[28-May-2016 17:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/udayakumar/public_html/doors/view.php on line 163
+[28-May-2016 17:35:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/udayakumar/public_html/doors/view.php on line 163
+[31-May-2016 13:28:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/udayakumar/public_html/doors/view.php on line 334
+[31-May-2016 13:28:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/udayakumar/public_html/doors/view.php on line 334
+[31-May-2016 13:56:17 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/udayakumar/public_html/doors/view.php on line 165
+[31-May-2016 13:56:44 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/udayakumar/public_html/doors/view.php on line 165
+[31-May-2016 13:56:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/udayakumar/public_html/doors/view.php on line 165
+[31-May-2016 13:59:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/udayakumar/public_html/doors/view.php on line 168
+[31-May-2016 14:36:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 512
+[31-May-2016 14:36:42 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 544
+[31-May-2016 14:37:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 512
+[31-May-2016 14:37:31 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 544
+[31-May-2016 14:38:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 512
+[31-May-2016 14:38:35 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/udayakumar/public_html/doors/view.php on line 544
+[07-Jun-2016 07:40:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/udayakumar/public_html/doors_new/view.php on line 368
+[14-Jun-2016 11:46:31 America/Chicago] PHP Fatal error:  Call to undefined function mysql_addslashes() in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 3
+[14-Jun-2016 12:00:00 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 3
+[14-Jun-2016 12:00:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 3
+[14-Jun-2016 12:00:00 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 3
+[14-Jun-2016 12:00:42 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 6
+[14-Jun-2016 12:00:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 6
+[14-Jun-2016 12:00:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/udayakumar/public_html/doors_new/ajax_contact.php on line 6
+[17-Jun-2016 08:57:23 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/udayakumar/public_html/doors_new/about.php on line 314
+[17-Jun-2016 08:57:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/udayakumar/public_html/doors_new/about.php on line 314
+[17-Jun-2016 08:57:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/udayakumar/public_html/doors_new/about.php on line 314
+[17-Jun-2016 08:57:23 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home1/udayakumar/public_html/doors_new/about.php on line 315
+[17-Jun-2016 09:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/udayakumar/public_html/doors_new/about.php on line 437
+[17-Jun-2016 09:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/udayakumar/public_html/doors_new/about.php on line 322
